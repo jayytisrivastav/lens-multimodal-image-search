@@ -1,0 +1,11 @@
+streamlit
+ddgs
+transformers==4.57.6
+sentence-transformers==4.1.0
+torch
+qdrant-client
+pillow
+einops
+timm
+requests
+flask

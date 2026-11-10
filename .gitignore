@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+image_store/
+images/
+evaluations.jsonl
+.cache/
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.zip
+.vscode/
